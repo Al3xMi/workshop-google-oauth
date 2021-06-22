@@ -9,5 +9,5 @@ Potreban softver:
 
 - Git
 - Visual Studio Code
-- [Postgress (poželjno)](https://docs.docker.com/get-docker/)
+- [Postgress](https://www.postgresql.org/download/)
 - [.NET 3.1 SDK (opciono)](https://dotnet.microsoft.com/download/dotnet/5.0)
