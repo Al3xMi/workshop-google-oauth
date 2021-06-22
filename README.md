@@ -5,6 +5,7 @@ Cilj workshopa je demonstrirati autentifikaciju pomocu OAuth Google servica.
 Workshop se sastoji od nekoliko koraka:
 
 1. [Upoznavanje sa aplikacijom](./Aplikacija.md)
+
 Potreban softver:
 
 - Git
