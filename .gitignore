@@ -1,0 +1,6 @@
+.vs/*
+.vscode/*
+/IdentityByExamples/obj
+/IdentityByExamples/bin
+/EmailService/obj
+/EmailService/bin
