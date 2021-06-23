@@ -15,7 +15,6 @@ namespace IdentityByExamples
 
             using (var scope = host.Services.CreateScope())
             {
-                //3. Get the instance of BoardGamesDBContext in our services layer
                 var services = scope.ServiceProvider;
                 var context = services.GetRequiredService<ApplicationContext>();
 
