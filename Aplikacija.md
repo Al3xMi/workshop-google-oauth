@@ -16,8 +16,7 @@ dotnet run
 
 ### Credentials
 
-username: admin@codaxy.com
-
-password: SuperSecret
+-username: admin@codaxy.com
+-password: SuperSecret
 
 Nakon sto smo isprobali aplikaciju mozemo da nastavimo sa podesavanjem [Google API Platforme](./GoogleApiPlatforma.md).
