@@ -1,8 +1,8 @@
 # Google API Platforma
 
-Prvo sto moramo je otici na [https://developers.google.com/identity/sign-in/web/sign-in#before_you_begin](https://console.cloud.google.com/apis/dashboard?) page. \
+Prvo odemo na [Integrate Google Sign-In](https://developers.google.com/identity/sign-in/web/sign-in#before_you_begin).
 
-**Odemo na Credentials page dugme, koje se nalazi na sredini stranice.**
+**Na sredini stranice se nalazi "Credentials page" dugme.**
 ![Slika](Images/GoogleSingInPage.png)
 
 **Pod Credentials, moramo konfigurisati "consent screen" (slika ispod):**
