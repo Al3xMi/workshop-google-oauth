@@ -8,7 +8,7 @@ Prvo odemo na [Integrate Google Sign-In](https://developers.google.com/identity/
 **Pod Credentials, moramo konfigurisati "consent screen" (slika ispod):**
 ![Slika1](Images/Consent-Google.png)
 
-**Izabrati "External user"":**
+**Izabrati "External user":**
 ![Slika1](Images/Consent-user-type.png)
 
 **Upisati ime aplikacije i proci ostale korake**
