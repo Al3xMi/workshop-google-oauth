@@ -6,7 +6,7 @@ Prvo odemo na [Integrate Google Sign-In](https://developers.google.com/identity/
 ![Slika](Images/GoogleSingInPage.png)
 
 **Pod Credentials, moramo konfigurisati "consent screen" (slika ispod):**
-![Slika1](Images/Consent-Google.png)
+![Slika1](Images/Consent-Google.png) 
 
 **Izabrati "External user":**
 ![Slika1](Images/Consent-user-type.png)
