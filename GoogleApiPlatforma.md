@@ -11,7 +11,7 @@ Prvo odemo na [Integrate Google Sign-In](https://developers.google.com/identity/
 **Izabrati "External user":** \
 ![Slika1](Images/Consent-user-type.png)
 
-**Upisati ime aplikacije i proci ostale korake**
+**Upisati ime aplikacije i proci ostale korake** \
 ![Slika1](Images/App-name.png)
 
 **Kreiramo credentials i izaberemo OAuth client ID:**
