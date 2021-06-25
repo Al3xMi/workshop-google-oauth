@@ -1,6 +1,6 @@
 # Google API Platforma
 
-Prvo odemo na [Integrate Google Sign-In](https://developers.google.com/identity/sign-in/web/sign-in#before_you_begin).
+Otvorimo [Google Console](https://console.cloud.google.com/apis/credentials) gde mozemo procitati malo vise o Googel OAuth servisu.
 
 **Na sredini stranice se nalazi "Credentials page" dugme.**
 ![Slika](Images/GoogleSingInPage.png)
