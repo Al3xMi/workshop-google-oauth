@@ -2,10 +2,7 @@
 
 Otvorimo [Google Console](https://console.cloud.google.com/apis/credentials) gde mozemo procitati malo vise o Googel OAuth servisu.
 
-**Na sredini stranice se nalazi "Credentials page" dugme.**
-![Slika](Images/GoogleSingInPage.png)
-
-**Pod Credentials, moramo konfigurisati "consent screen" (slika ispod):**
+#### Pod Credentials, moramo konfigurisati "consent screen" (slika ispod): 
 ![Slika1](Images/Consent-Google.png) 
 
 **Izabrati "External user":** \
