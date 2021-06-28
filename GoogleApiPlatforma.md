@@ -1,6 +1,6 @@
 # Google API Platforma
 
-Otvorimo [Google Console](https://console.cloud.google.com/apis/credentials) gde mozemo procitati malo vise o Googel OAuth servisu.
+Otvorimo [Google Console](https://console.cloud.google.com/apis/credentials).
 
 #### Pod Credentials, moramo konfigurisati "consent screen" (slika ispod): 
 ![Slika1](Images/Consent-Google.png) 
