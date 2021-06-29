@@ -1,4 +1,4 @@
-# Google kao ekterni identity provider
+# Konfiguracija eksternog identity provider-a (Google)
 
 * Sada cemo registorvati Google kao eksterni identity provajder. Da bi to uradili moramo instalirati paket, preko nuget package manager-a.
   ```
