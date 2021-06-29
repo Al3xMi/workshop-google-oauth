@@ -6,6 +6,7 @@ Workshop se sastoji od nekoliko koraka:
 
 1. [Upoznavanje sa aplikacijom](./Aplikacija.md)
 2. [Google API Platforma](./GoogleApiPlatforma.md)
+3. [Podesavanje Aplikacije](./PodesavanjeAplikacije.md)
 
 Potreban softver:
 
