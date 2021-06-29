@@ -82,3 +82,5 @@
   ```
   
 * Kada posjetimo login stranicu trebalo bi da izgleda ovako
+  ![Slika1](Images/43-External-provider-view.png)
+
