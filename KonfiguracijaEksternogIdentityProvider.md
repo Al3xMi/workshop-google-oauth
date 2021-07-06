@@ -9,8 +9,8 @@
   ```
   "Authentication": {
       "Google": {
-        "ClientId": "871483539737-m7u9ohi6rg16sk77hs4v73ddibevgbjm.apps.googleusercontent.com",
-        "ClientSecret": "mTSMmqtTlNf5w5oDirvAN7eb"
+        "ClientId": "<upisati svoj client ID>",
+        "ClientSecret": "<upisati svoj client sectet>"
       }
     }
   ```
