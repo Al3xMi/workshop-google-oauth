@@ -17,5 +17,4 @@ Otvorimo [Google Console](https://console.cloud.google.com/apis/credentials).
 **Sada mozemo izabrati Application Type, Ime i redirect URIs za aplikaciju**
 ![Slika1](Images/OAuth-Client-ID-Configuration.png)
 
-
-Kada smo podesili Google OAuth servis mozemo preci na [podesavanje aplikacije](./PodesavanjeAplikacije.md).
+Kada smo podesili Google OAuth servis mozemo preci na [podesavanje aplikacije](./KonfiguracijaEksternogIdentityProvider.md).
