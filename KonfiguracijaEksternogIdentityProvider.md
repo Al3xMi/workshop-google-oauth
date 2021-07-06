@@ -83,4 +83,6 @@
   
 * Kada posjetimo login stranicu trebalo bi da izgleda ovako
   ![Slika1](Images/43-External-provider-view.png)
+  
+ Sada prelazimo na [implementaciju Google Indentity Provider-a](./ImplementacijaEksternogIdentityProvider.md)
 
