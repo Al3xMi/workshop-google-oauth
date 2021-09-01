@@ -71,7 +71,7 @@
   Sa ```SignInManager.GetExternalAuthenticationSchemesAsync``` metodom, povucemo sve registrovane provajdere u nasoj aplikaiji i ako nadje, prkaze ih na stranici.
   
   
-  Sada cemo kreirani partial view ukljuciti ```Login``` stranicu
+  Sada cemo kreirani partial view ukljuciti ```View/Account/Login.chtml``` stranicu
   ```
   <div class="col-md-4">
     <form asp-action="Login" asp-route-returnUrl="@ViewData["ReturnUrl"]">
