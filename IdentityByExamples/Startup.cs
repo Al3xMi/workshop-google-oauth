@@ -38,7 +38,7 @@ namespace IdentityByExamples
 
                 opt.User.RequireUniqueEmail = true;
 
-                opt.SignIn.RequireConfirmedEmail = true;
+                opt.SignIn.RequireConfirmedEmail = false;
 
                 opt.Tokens.EmailConfirmationTokenProvider = "emailconfirmation";
 
